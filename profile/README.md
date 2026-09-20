@@ -1,4 +1,8 @@
 # 🌟 YCU-Algo-Lab
+**我们的站点**
+主站：www.ycualgo.tech
+OJ 平台：oj.ycualgo.tech
+博客站：blog.ycualgo.tech
 
 **YCU ACM 算法集训队官方组织主页**
 
