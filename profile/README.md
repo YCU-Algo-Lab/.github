@@ -2,19 +2,16 @@
 
 ---
 
-**YCU ACM 算法集训队的已有站点**
+
+**YCU ACM 算法集训队官方组织主页**
+
+专注于数据结构与算法研究，以及程序设计竞赛（ACM/ICPC, CCPC, GPLT 等）的实战训练。
 
 主站：[www.ycualgo.tech](https://www.ycualgo.tech)
 
 OJ 平台：[oj.ycualgo.tech](https://oj.ycualgo.tech)
 
 博客站：[blog.ycualgo.tech](https://blog.ycualgo.tech)
-
----
-
-**YCU ACM 算法集训队官方组织主页**
-
-专注于数据结构与算法研究，以及程序设计竞赛（ACM/ICPC, CCPC, GPLT 等）的实战训练。
 
 ---
 
